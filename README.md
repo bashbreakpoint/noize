@@ -26,6 +26,9 @@ If you are also malicious enough, get involved. Run it.
 
 Make some Noize.
 
+### Why encrypted data?
+Because several of the agencies listening to all the traffic we create are required to store any sufficiently encrypted traffic indefinitely. If we create enough noise, we can overwhelm the storage capacity (which is in the zetabyte scale), and if we can't do that, we can still wreck attemps to brute force encryption algorithms by providing so much intentionally broken and misleading data that the processing capacity is overwhelmed.
+
 ## TODO
 This program isn't quite ready to run yet. As far as I know right now, the TODO list is as follows:
 
