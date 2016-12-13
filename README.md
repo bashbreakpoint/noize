@@ -2,11 +2,17 @@
 
 This program is intended to do the following:
 1. Discover a Peer 2 Peer network
+
 1. For each peer discovered (up to a limit)
+
     1. Create a random length string
+    
     1. Encrypt said string using aes-256 bit encryption, using a randomly generated salt and password.
+    
     1. Send that peer the newly encrypted string
+    
 1. Each peer that recieves these encrypted strings does the following:
+
     1. Throws it away!
 
 ## Wut? Why?
